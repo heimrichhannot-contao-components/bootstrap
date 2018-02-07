@@ -1,0 +1,15 @@
+{
+  "name": "heimrichhannot-contao-components/bootstrap",
+  "type": "contao-component",
+  "description": "Bootstrap integration for Contao Open Source CMS",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Heimrich & Hannot",
+      "homepage": "http://www.heimrich-hannot.de"
+    }
+  ],
+  "require": {
+    "foxy/foxy": "^1.0.0"
+  }
+}
